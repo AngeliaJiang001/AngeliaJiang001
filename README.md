@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AngeliaJiang001
 - 👀 I’m interested in space science and astronomy
-- 🌱 I’m currently learning orbital dynamics
+- 🌱 I’m currently learning orbital dynamics and control relevant to the circular restricted 3-body problem
 - 💞️ I’m looking to discuss relative problems
 - 📫 How to reach me: 892116138@qq.com
 
